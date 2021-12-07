@@ -1,0 +1,24 @@
+{
+  "name": "felipeportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipepizarro1/myWebsitePortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipepizarro1/myWebsitePortfolio/issues"
+  },
+  "homepage": "https://github.com/felipepizarro1/myWebsitePortfolio#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
