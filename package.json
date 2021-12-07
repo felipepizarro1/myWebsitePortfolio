@@ -1,7 +1,7 @@
 {
   "name": "felipeportfolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "My Website Portfolio",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/felipepizarro1/myWebsitePortfolio.git"
   },
-  "author": "",
+  "author": "Felipe Pizarro",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/felipepizarro1/myWebsitePortfolio/issues"
@@ -20,5 +20,10 @@
   "homepage": "https://github.com/felipepizarro1/myWebsitePortfolio#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
   }
 }
