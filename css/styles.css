@@ -1,5 +1,7 @@
 body {
-    font-family: 'Readex Pro', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    background-image:linear-gradient(90deg,white, rgb(35,252,220));
+    
 }
 
 h1 {
@@ -14,6 +16,6 @@ p {
     font-weight: 400;
 }
 
-.jumbotron {
-    background-color:aquamarine; 
-}
+a:link {
+    text-decoration: none;
+  }
