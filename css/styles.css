@@ -1,6 +1,7 @@
 body {
     font-family: 'Raleway', sans-serif;
-    background-image:linear-gradient(90deg,white, rgb(35,252,220));
+    background-color: black;
+   background-image:linear-gradient(90deg,white, rgb(35,252,220));
     
 }
 
@@ -19,3 +20,11 @@ p {
 a:link {
     text-decoration: none;
   }
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: turquoise;
+}
